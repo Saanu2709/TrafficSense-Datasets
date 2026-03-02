@@ -35,3 +35,13 @@ Link: https://www.kaggle.com/datasets/ashfakyeafi/road-vehicle-images-dataset
 **Description:**  
 This dataset contains road vehicle images from different traffic conditions.
 It is useful for testing and validating vehicle detection models.
+
+## Third Dataset
+
+**Traffic Detection Project Dataset**  
+Source: Kaggle  
+Link: https://www.kaggle.com/datasets/nadinpethiyagoda/traffic-detection-project  
+
+**Description:**  
+This dataset contains traffic scene images with vehicles on roads.
+It is suitable for testing vehicle detection and traffic analysis models.
