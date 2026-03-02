@@ -38,9 +38,9 @@ It is useful for testing and validating vehicle detection models.
 
 ## Third Dataset
 
-**Traffic Detection Project Dataset**  
+**Traffic Signs and Vehicles Dataset**  
 Source: Kaggle  
-Link: https://www.kaggle.com/datasets/nadinpethiyagoda/traffic-detection-project  
+Link: https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-and-vehicles-dataset  
 
 **Description:**  
 This dataset contains traffic scene images with vehicles on roads.
