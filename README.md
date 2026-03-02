@@ -30,8 +30,8 @@ Mini Project (2025–26)
 
 **Road Vehicle Images Dataset**  
 Source: Kaggle  
-Link: https://www.kaggle.com/datasets/andrewmvd/road-vehicle-images  
+Link: https://www.kaggle.com/datasets/ashfakyeafi/road-vehicle-images-dataset  
 
 **Description:**  
-This dataset contains road vehicle images including cars, buses, and trucks.
-It can be used for testing and validating vehicle detection models.
+This dataset contains road vehicle images from different traffic conditions.
+It is useful for testing and validating vehicle detection models.
