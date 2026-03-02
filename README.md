@@ -28,10 +28,10 @@ Mini Project (2025–26)
 
 ## Secondary Dataset
 
-**Urban Traffic Object Detection Dataset**  
+**Road Vehicle Images Dataset**  
 Source: Kaggle  
-Link: https://www.kaggle.com/datasets/hasibalmuzdadid/urban-traffic-object-detection-dataset  
+Link: https://www.kaggle.com/datasets/andrewmvd/road-vehicle-images  
 
 **Description:**  
-This dataset contains urban road traffic images with multiple vehicle classes.
-It can be used for testing and validating vehicle detection and traffic analysis models.
+This dataset contains road vehicle images including cars, buses, and trucks.
+It can be used for testing and validating vehicle detection models.
