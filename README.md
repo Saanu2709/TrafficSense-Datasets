@@ -25,3 +25,13 @@ Name - Saanvi Shere
 Roll No - 24AD1120  
 BTech AIDS – Sem 4  
 Mini Project (2025–26)
+
+## Secondary Dataset
+
+**Urban Traffic Object Detection Dataset**  
+Source: Kaggle  
+Link: https://www.kaggle.com/datasets/hasibalmuzdadid/urban-traffic-object-detection-dataset  
+
+**Description:**  
+This dataset contains urban road traffic images with multiple vehicle classes.
+It can be used for testing and validating vehicle detection and traffic analysis models.
